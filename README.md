@@ -75,11 +75,13 @@ Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anusha5262&show_icons=true&theme=tokyonight)
+![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anusha5262&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anusha5262&layout=compact&theme=tokyonight)
+
 
 ---
 
